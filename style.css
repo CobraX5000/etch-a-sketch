@@ -1,0 +1,18 @@
+html{
+    background-color: lightgray;
+}
+#gridholder{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid red;
+}
+
+.pixel{
+    outline: 1px dotted black;
+    outline-offset: -1px;
+}
+
+.coloredIn{
+    background-color: black;
+}
